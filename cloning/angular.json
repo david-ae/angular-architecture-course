@@ -136,5 +136,8 @@
       }
     }
   },
-  "defaultProject": "input-output-demo"
+  "defaultProject": "input-output-demo",
+  "cli": {
+    "analytics": false
+  }
 }
